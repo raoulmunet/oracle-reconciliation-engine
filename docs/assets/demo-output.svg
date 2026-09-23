@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="620" viewBox="0 0 1400 620">
+<rect width="1400" height="620" rx="18" fill="#121418"/>
+<rect width="1400" height="58" rx="18" fill="#26292e"/>
+<circle cx="34" cy="29" r="9" fill="#ff5f56"/><circle cx="68" cy="29" r="9" fill="#ffbd2e"/><circle cx="102" cy="29" r="9" fill="#27c93f"/>
+<g font-family="monospace" fill="#f1f1f1">
+<text x="44" y="108" font-size="30" font-weight="700">Oracle Reconciliation Engine — Demo</text>
+<text x="44" y="180" font-size="22">TRANSACTION  RESULT</text>
+<text x="44" y="220" font-size="22">-----------  ------------------</text>
+<text x="44" y="260" font-size="22">TX1001       MATCHED</text>
+<text x="44" y="300" font-size="22">TX1002       AMOUNT_MISMATCH</text>
+<text x="44" y="340" font-size="22">TX1003       MISSING_TARGET</text>
+<text x="44" y="380" font-size="22">TX1004       MISSING_SOURCE</text>
+<text x="44" y="420" font-size="22">TX1005       DATE_MISMATCH</text>
+<text x="44" y="460" font-size="22">TX1006       DUPLICATE_SOURCE</text>
+<text x="44" y="530" font-size="22">Amount tolerance: 0.01</text>
+</g></svg>
