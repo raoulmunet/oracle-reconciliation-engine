@@ -1,0 +1,9 @@
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local configuration / generated exports
+.env
+*.log
